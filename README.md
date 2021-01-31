@@ -1,2 +1,2 @@
 # hello-world
-A helo world for testing
+A hello world for testing
